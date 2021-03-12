@@ -1,12 +1,3 @@
-/*
-    Dependencies
-    https://codepen.io/jcoulterdesign/pen/1e3ed378fed68f1a43bc4f73f9964945
-    https://codepen.io/jcoulterdesign/pen/6c44bfdc74442457826e062bc719c586
-    https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
-    https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js
-    https://cdnjs.cloudflare.com/ajax/libs/spectrum/1.8.1/spectrum.js
-    https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js
-*/
 
 // Master audio array. This is for audio that will not be manipulated by any HTML5 filters.
 // For audio needing low, high pass effects, add them to the _specialAudio array.
