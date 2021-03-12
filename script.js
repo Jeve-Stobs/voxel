@@ -574,7 +574,7 @@ body {
                 css_pre_processor : "scss",
                 html_pre_processor : "haml",
                 html : `${hamlArray}] 
--# Created using VoCSSels by Jamie Coulter https://codepen.io/jcoulterdesign/pen/vYyzZdo
+-# Created using VoCSSels By Samuel & Jamie 
 .p3d_playground
     .model
         - @voxels.each do | voxel |
